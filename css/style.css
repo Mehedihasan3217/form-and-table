@@ -1,0 +1,36 @@
+.yt iframe{
+    width:800px;
+    height:600px;
+}
+.wrapper{
+    width: 60%;
+    margin: 0 auto;
+    border: 5px solid red; 
+}
+label{
+    font-size: 25px;
+}
+.first_name, .last_name, .email, .password{
+    width: 90%;
+    height: 25px;
+    padding: 10px;
+    font-size: 18px;
+}
+.message{
+    font-size: 18px;
+    padding: 10px;
+
+}
+table{
+    width: 100%;
+    border: 1px solid green;
+
+}
+th, td{
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid green;
+}
+td:hover{
+    background-color: #ddd;
+}
